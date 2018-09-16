@@ -1,3 +1,1 @@
-# Playground Repo
-
-For practicing.
+Dylans Playground, for practice
